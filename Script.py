@@ -14,7 +14,7 @@ class script(object):
 <b>✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : 𝚅1.0.43 [𝙼𝙰𝙹𝙾𝚁]</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 - This is a Eva Mari clone Project
-- contact <a href=https://t.me/msmOTT>𝙼𝚛.𝙼𝙺𝙽 𝚃𝙶</a></b>
+- contact <a href=https://t.me/msmOTT>𝙼sm OTT</a></b>
 <b>DEVS:</b>
 - 𝙳𝚎𝚟 1<a href=https://t.me/msmOTT>msmOTT 𝚃𝙶</a>
 - 𝙳𝚎𝚟 2<a href=https://t.me/msmOTT>msmOTT</a>"""

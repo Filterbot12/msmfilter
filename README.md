@@ -57,7 +57,7 @@
 
 ## Deploy To Railway 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/R_lmXq?referralCode=msmfilter)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Ejxay0?referralCode=msmfilter)
 
 ## Commands
 ```
